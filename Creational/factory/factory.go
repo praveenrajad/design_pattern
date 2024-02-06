@@ -12,7 +12,7 @@ Client:
 	pritnDetail(cpA)
 func printDetail (AbsProdutc)
 
-To know: Interface is already pass by reference, so not need to use pointers
+Learning: Interface is already pass by reference, so not need to use pointers
 
 */
 
