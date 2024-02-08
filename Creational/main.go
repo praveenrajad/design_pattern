@@ -1,8 +1,8 @@
 package main
 
 import (
-	"creational/abstractFactory"
-	"creational/factory"
+	"creational/internal/abstractFactory"
+	"creational/internal/factory"
 	"fmt"
 )
 
