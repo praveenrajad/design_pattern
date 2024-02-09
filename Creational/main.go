@@ -3,6 +3,7 @@ package main
 import (
 	"creational/internal/abstractFactory"
 	"creational/internal/builder"
+	"creational/internal/clone"
 	"creational/internal/factory"
 	"fmt"
 )
@@ -15,5 +16,8 @@ func main() {
 	fmt.Println("Done")
 	fmt.Println("Builder")
 	builder.Run()
-	fmt.Println("DOne")
+	fmt.Println("Done")
+	fmt.Println("Clone")
+	clone.Run()
+	fmt.Println("Done")
 }
