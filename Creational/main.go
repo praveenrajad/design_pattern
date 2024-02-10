@@ -5,6 +5,7 @@ import (
 	"creational/internal/builder"
 	"creational/internal/clone"
 	"creational/internal/factory"
+	"creational/internal/singleton"
 	"fmt"
 )
 
@@ -19,5 +20,8 @@ func main() {
 	fmt.Println("Done")
 	fmt.Println("Clone")
 	clone.Run()
+	fmt.Println("Done")
+	fmt.Println("Singleton")
+	singleton.Run()
 	fmt.Println("Done")
 }
