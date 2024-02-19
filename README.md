@@ -7,6 +7,8 @@ This has the code for different design patterns in following folder structure:
     5. Prototyp
     6. Object Pool
 2. Behavioral
+    1. Chain of responsibility
+    2. Command
 3. Structural
 4. Others
     Composition -> for repeated same function
