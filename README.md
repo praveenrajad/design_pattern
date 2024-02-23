@@ -9,6 +9,7 @@ This has the code for different design patterns in following folder structure:
 2. Behavioral
     1. Chain of responsibility
     2. Command
+    3. Iterator
 3. Structural
 4. Others
     Composition -> for repeated same function
